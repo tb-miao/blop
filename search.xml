@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>HiBit-Uninstaller卸载软件1</title>
+    <url>/2024/09/30/HiBit-Uninstaller/</url>
+    <content><![CDATA[<h2 id="HiBit-Uninstaller"><a href="#HiBit-Uninstaller" class="headerlink" title="HiBit Uninstaller"></a>HiBit Uninstaller</h2><h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>HiBit Uninstaller是一款开源的卸载软件，可以卸载大部分Windows软件。<br>完全卸载Stubborn软件，Windows应用程序和浏览器扩展。</p>
+<p>支持Windows Vista&#x2F;7&#x2F;8&#x2F;10&#x2F;11（32&#x2F;64 位）</p>
+<h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="http://hibitsoft.ir/Uninstaller.html">HiBit Uninstaller</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>anydesk远程控制软件1</title>
     <url>/2024/09/21/anydesk/</url>
     <content><![CDATA[<h1 id="anydesk"><a href="#anydesk" class="headerlink" title="anydesk"></a>anydesk</h1><p>深受超过200,000位客户的信赖<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/anydesk/2.png" alt="anydesk" /></p>
@@ -59,18 +73,18 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/09/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h1 id="创建新的页面"><a href="#创建新的页面" class="headerlink" title="创建新的页面"></a>创建新的页面</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> page <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
-<h1 id="创建新的文章"><a href="#创建新的文章" class="headerlink" title="创建新的文章"></a>创建新的文章</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
-<h1 id="上传到GitHub"><a href="#上传到GitHub" class="headerlink" title="上传到GitHub"></a>上传到GitHub</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
-<h1 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
-<h1 id="开启本地预览"><a href="#开启本地预览" class="headerlink" title="开启本地预览"></a>开启本地预览</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
-<h1 id="其他使用教程"><a href="#其他使用教程" class="headerlink" title="其他使用教程"></a>其他使用教程</h1><ul>
-<li><a href="https://butterfly.js.org/">Butterfly</a></li>
-</ul>
+    <title>geek卸载软件2</title>
+    <url>/2024/09/30/geek/</url>
+    <content><![CDATA[<h2 id="GEEK-UNINSTALLER"><a href="#GEEK-UNINSTALLER" class="headerlink" title="GEEK UNINSTALLER"></a>GEEK UNINSTALLER</h2><h2 id="兼容性"><a href="#兼容性" class="headerlink" title="兼容性"></a>兼容性</h2><p>32位和64位Windows 11&#x2F;10&#x2F;7&#x2F;8&#x2F;8.1。需要管理员权限。<br>在 x64 上运行时，Windows Geek Uninstaller 作为本机 64 位应用程序运行。</p>
+<h2 id="最新发行说明"><a href="#最新发行说明" class="headerlink" title="最新发行说明"></a>最新发行说明</h2><p><a href="https://geekuninstaller.com/download?version=1.5.2.165">https://geekuninstaller.com/download?version=1.5.2.165</a></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>[<a href="https://geekuninstaller.com/download?version=1.5.2.165%5D">https://geekuninstaller.com/download?version=1.5.2.165]</a><br>(<a href="https://geekuninstaller.com/download?version=1.5.2.165">https://geekuninstaller.com/download?version=1.5.2.165</a>)</p>
 ]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
   </entry>
   <entry>
     <title>IDM激活脚本</title>
@@ -124,6 +138,20 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2024/09/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h1 id="创建新的页面"><a href="#创建新的页面" class="headerlink" title="创建新的页面"></a>创建新的页面</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> page <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
+<h1 id="创建新的文章"><a href="#创建新的文章" class="headerlink" title="创建新的文章"></a>创建新的文章</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
+<h1 id="上传到GitHub"><a href="#上传到GitHub" class="headerlink" title="上传到GitHub"></a>上传到GitHub</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
+<h1 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
+<h1 id="开启本地预览"><a href="#开启本地预览" class="headerlink" title="开启本地预览"></a>开启本地预览</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
+<h1 id="其他使用教程"><a href="#其他使用教程" class="headerlink" title="其他使用教程"></a>其他使用教程</h1><ul>
+<li><a href="https://butterfly.js.org/">Butterfly</a></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>伽卡他卡电子教室</title>
     <url>/2024/09/21/jktk/</url>
     <content><![CDATA[<h1 id="伽卡他卡电子教室"><a href="#伽卡他卡电子教室" class="headerlink" title="伽卡他卡电子教室"></a>伽卡他卡电子教室</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>伽卡他卡网络教室软件由伽卡他卡公司隆重推出，免费下载，免费使用。即安即用，无人数时间限制，不需注册码、无加密狗。<br>技术先进，功能齐全，兼容性强，稳定可靠，图像清晰流畅，持续更新。免费在线升级，诸多新功能即将陆续推出，敬请关注。<br>主要功能：考试系统（支持WORD试题、操作题），硬盘还原、P2P聊天、文件收发，日志考勤、屏幕广播、屏幕录相、学生演示、查看屏幕、远程控制警告、远程关机重启、远程开机、远程执行、黑名单（限制上网功能）、课堂评价、随堂测试、教室分隔<br>主要特色：屏幕广播流畅不卡、登录双选择、退出保护机制、气泡提示、终端与用户双命名、支持多教室、随课发起测试<br>教师端与学生端不要安装在同一台电脑上。（如电脑安装过其他电子教室软件，操作系统可能受到破坏，有时需重装系统）<br>伽卡他卡电子教室软件支持操作系统：WINDOW XP&#x2F;WIN7&#x2F;WIN8&#x2F;WIN10&#x2F;WIN11<br>伽卡他卡电子教室软件推荐配置：内存512M&#x2F;CPU1.8GHZ&#x2F;1G硬盘空间</p>
@@ -140,6 +168,41 @@
     <title>我的世界网易版的教程药水</title>
     <url>/2024/09/08/wangyiban/</url>
     <content><![CDATA[<h1 id="这是关于我的世界网易版的教程！-药水制作"><a href="#这是关于我的世界网易版的教程！-药水制作" class="headerlink" title="这是关于我的世界网易版的教程！(药水制作)"></a>这是关于我的世界网易版的教程！(药水制作)</h1><p>啊啊啊啊啊啊！<br>汉字丢失！！！！！！！！！！！！<br>只能看图片了。。。<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/2/yd.png" alt="药水" /></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一行命令永久激活Windows</title>
+    <url>/2024/09/30/windows-jo/</url>
+    <content><![CDATA[<h2 id="一行命令永久激活Win11-Win10，Office-无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效"><a href="#一行命令永久激活Win11-Win10，Office-无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效" class="headerlink" title="一行命令永久激活Win11,Win10，Office, 无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效"></a>一行命令永久激活Win11,Win10，Office, 无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效</h2><p>分享一个开源的 Windows 和 Office 激活脚本，使用很简单，目前已知的最简单方法。</p>
+<p>该激活脚本目前已在 GitHub 上拥有 96K 点赞，安全可靠，无需下载软件，无需去找序列号，直接在控制台输入一条命令即可激活 Windows 10&#x2F;11，Office。</p>
+<h2 id="如何使用？"><a href="#如何使用？" class="headerlink" title="如何使用？"></a>如何使用？</h2><ol>
+<li>Windows<br>1.1 联网情况下，以管理员模式启动PowerShell<br>点击开始，搜索栏搜索“Powershell”, 点击以管理员身份运行<img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/1.jpg" alt="1">
+1.2. 复制以下命令到Powershell窗口, 回车
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">irm https://get.activated.win | iex</span><br></pre></td></tr></table></figure>
+按1（数字许可证激活，HWID方式，永久激活Windows）
+<img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/2.webp" alt="2"></li>
+</ol>
+<h2 id="命令详解："><a href="#命令详解：" class="headerlink" title="命令详解："></a>命令详解：</h2><p>[1] HWID       # 数字许可证永久激活Windows，需要联网<br>[2] Ohook      # 通过修改一个激活dll,实现离线永久激活Office<br>[3] KMS38      # KMS方式离线激活Windows&#x2F;Server 漏洞激活到2038年<br>[4] Online KMS # KMS方式激活Windows&#x2F;Server&#x2F;Office 一次180天，到期自动续，需要联网</p>
+<p>界面翻译：<br>     Activation Methods:</p>
+<p> [1] HWID        |  Windows           |   Permanent 永久<br> [2] Ohook       |  Office            |   Permanent 永久<br> [3] KMS38       |  Windows           |   Year 2038 到2038年<br> [4] Online KMS  |  Windows &#x2F; Office  |    180 Days 180天</p>
+<hr>
+<p> [5] Check Activation Status 检查激活状态<br> [6] Change Windows Edition 改Windows版本<br> [7] Change Office Edition 改Office版本</p>
+<hr>
+<p> [8] Troubleshoot 疑难排解<br> [9] Extras 附加选项<br> [H] Help 帮助<br> [0] Exit 退出</p>
+<hr>
+<pre><code>  用键盘输入选择项，方括号中为可选项 [1,2,3,4,5,6,7,8,9,H,0] :
+</code></pre>
+<p>1.3 看到 Successful关闭窗口即可。<br><img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/3.jpg" alt="3"></p>
+<h2 id="1-4-问题解决"><a href="#1-4-问题解决" class="headerlink" title="1.4 问题解决"></a>1.4 问题解决</h2><p>绝大多数情况以上方式就可以成功，对于不能成功的，尝试选3【KM38】方式<br>记得关闭防病毒</p>
+<h2 id="2-Office激活"><a href="#2-Office激活" class="headerlink" title="2. Office激活"></a>2. Office激活</h2><p>选择2，离线永久激活<br><img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/4.webp" alt="4"></p>
+<p>如果不成功，选择4，这种方式每180天会再次自动激活。无需额外操作。</p>
+<h2 id="3-项目开源地址："><a href="#3-项目开源地址：" class="headerlink" title="3. 项目开源地址："></a>3. 项目开源地址：</h2><p>Github开源地址(96K赞20249月18日)：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">https://github.com/massgravel/Microsoft-Activation-Scripts</a></p>
 ]]></content>
       <categories>
         <category>教程</category>
