@@ -165,28 +165,16 @@
       </tags>
   </entry>
   <entry>
-    <title>我的世界网易版的教程药水</title>
-    <url>/2024/09/08/wangyiban/</url>
-    <content><![CDATA[<h1 id="这是关于我的世界网易版的教程！-药水制作"><a href="#这是关于我的世界网易版的教程！-药水制作" class="headerlink" title="这是关于我的世界网易版的教程！(药水制作)"></a>这是关于我的世界网易版的教程！(药水制作)</h1><p>啊啊啊啊啊啊！<br>汉字丢失！！！！！！！！！！！！<br>只能看图片了。。。<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/2/yd.png" alt="药水" /></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>一行命令永久激活Windows</title>
     <url>/2024/09/30/windows-jo/</url>
     <content><![CDATA[<h2 id="一行命令永久激活Win11-Win10，Office-无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效"><a href="#一行命令永久激活Win11-Win10，Office-无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效" class="headerlink" title="一行命令永久激活Win11,Win10，Office, 无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效"></a>一行命令永久激活Win11,Win10，Office, 无需找激活码，无需下载安装；目前看到最最简单，安全，可靠的激活方法，开源免费，一直有效</h2><p>分享一个开源的 Windows 和 Office 激活脚本，使用很简单，目前已知的最简单方法。</p>
 <p>该激活脚本目前已在 GitHub 上拥有 96K 点赞，安全可靠，无需下载软件，无需去找序列号，直接在控制台输入一条命令即可激活 Windows 10&#x2F;11，Office。</p>
 <h2 id="如何使用？"><a href="#如何使用？" class="headerlink" title="如何使用？"></a>如何使用？</h2><ol>
-<li>Windows<br>1.1 联网情况下，以管理员模式启动PowerShell<br>点击开始，搜索栏搜索“Powershell”, 点击以管理员身份运行<img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/1.jpg" alt="1">
+<li>Windows<br>1.1 联网情况下，以管理员模式启动PowerShell<br>点击开始，搜索栏搜索“Powershell”, 点击以管理员身份运行<img src="https://tbmiao.zeabur.app/img/jiaocheng/windows jo/1.jpg" alt="1">
 1.2. 复制以下命令到Powershell窗口, 回车
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">irm https://get.activated.win | iex</span><br></pre></td></tr></table></figure>
 按1（数字许可证激活，HWID方式，永久激活Windows）
-<img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/2.webp" alt="2"></li>
+<img src="https://tbmiao.zeabur.app/img/jiaocheng/windows jo/2.webp" alt="2"></li>
 </ol>
 <h2 id="命令详解："><a href="#命令详解：" class="headerlink" title="命令详解："></a>命令详解：</h2><p>[1] HWID       # 数字许可证永久激活Windows，需要联网<br>[2] Ohook      # 通过修改一个激活dll,实现离线永久激活Office<br>[3] KMS38      # KMS方式离线激活Windows&#x2F;Server 漏洞激活到2038年<br>[4] Online KMS # KMS方式激活Windows&#x2F;Server&#x2F;Office 一次180天，到期自动续，需要联网</p>
 <p>界面翻译：<br>     Activation Methods:</p>
@@ -198,11 +186,23 @@
 <hr>
 <pre><code>  用键盘输入选择项，方括号中为可选项 [1,2,3,4,5,6,7,8,9,H,0] :
 </code></pre>
-<p>1.3 看到 Successful关闭窗口即可。<br><img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/3.jpg" alt="3"></p>
+<p>1.3 看到 Successful关闭窗口即可。<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/windows jo/3.jpg" alt="3"></p>
 <h2 id="1-4-问题解决"><a href="#1-4-问题解决" class="headerlink" title="1.4 问题解决"></a>1.4 问题解决</h2><p>绝大多数情况以上方式就可以成功，对于不能成功的，尝试选3【KM38】方式<br>记得关闭防病毒</p>
-<h2 id="2-Office激活"><a href="#2-Office激活" class="headerlink" title="2. Office激活"></a>2. Office激活</h2><p>选择2，离线永久激活<br><img src="https://tbmiao.zeabur.app/img/jiaozheng/windows jo/4.webp" alt="4"></p>
+<h2 id="2-Office激活"><a href="#2-Office激活" class="headerlink" title="2. Office激活"></a>2. Office激活</h2><p>选择2，离线永久激活<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/windows jo/4.webp" alt="4"></p>
 <p>如果不成功，选择4，这种方式每180天会再次自动激活。无需额外操作。</p>
 <h2 id="3-项目开源地址："><a href="#3-项目开源地址：" class="headerlink" title="3. 项目开源地址："></a>3. 项目开源地址：</h2><p>Github开源地址(96K赞20249月18日)：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">https://github.com/massgravel/Microsoft-Activation-Scripts</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的世界网易版的教程药水</title>
+    <url>/2024/09/08/wangyiban/</url>
+    <content><![CDATA[<h1 id="这是关于我的世界网易版的教程！-药水制作"><a href="#这是关于我的世界网易版的教程！-药水制作" class="headerlink" title="这是关于我的世界网易版的教程！(药水制作)"></a>这是关于我的世界网易版的教程！(药水制作)</h1><p>啊啊啊啊啊啊！<br>汉字丢失！！！！！！！！！！！！<br>只能看图片了。。。<br><img src="https://tbmiao.zeabur.app/img/jiaocheng/2/yd.png" alt="药水" /></p>
 ]]></content>
       <categories>
         <category>教程</category>
