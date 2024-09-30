@@ -87,6 +87,20 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2024/09/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h1 id="创建新的页面"><a href="#创建新的页面" class="headerlink" title="创建新的页面"></a>创建新的页面</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> page <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
+<h1 id="创建新的文章"><a href="#创建新的文章" class="headerlink" title="创建新的文章"></a>创建新的文章</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
+<h1 id="上传到GitHub"><a href="#上传到GitHub" class="headerlink" title="上传到GitHub"></a>上传到GitHub</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
+<h1 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
+<h1 id="开启本地预览"><a href="#开启本地预览" class="headerlink" title="开启本地预览"></a>开启本地预览</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
+<h1 id="其他使用教程"><a href="#其他使用教程" class="headerlink" title="其他使用教程"></a>其他使用教程</h1><ul>
+<li><a href="https://butterfly.js.org/">Butterfly</a></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>IDM激活脚本</title>
     <url>/2024/09/17/idm/</url>
     <content><![CDATA[<h1 id="工具介绍："><a href="#工具介绍：" class="headerlink" title="工具介绍："></a>工具介绍：</h1><img src="https://tbmiao.zeabur.app/img/jiaocheng/idm/idm.jpg" alt="IDM" style="zoom:50%;" />
@@ -136,20 +150,6 @@
       <tags>
         <tag>教程</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2024/09/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h1 id="创建新的页面"><a href="#创建新的页面" class="headerlink" title="创建新的页面"></a>创建新的页面</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> page <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
-<h1 id="创建新的文章"><a href="#创建新的文章" class="headerlink" title="创建新的文章"></a>创建新的文章</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo <span class="built_in">new</span> <span class="string">&quot;Hello World&quot;</span></span><br></pre></td></tr></table></figure>
-<h1 id="上传到GitHub"><a href="#上传到GitHub" class="headerlink" title="上传到GitHub"></a>上传到GitHub</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
-<h1 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
-<h1 id="开启本地预览"><a href="#开启本地预览" class="headerlink" title="开启本地预览"></a>开启本地预览</h1><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
-<h1 id="其他使用教程"><a href="#其他使用教程" class="headerlink" title="其他使用教程"></a>其他使用教程</h1><ul>
-<li><a href="https://butterfly.js.org/">Butterfly</a></li>
-</ul>
-]]></content>
   </entry>
   <entry>
     <title>伽卡他卡电子教室</title>
